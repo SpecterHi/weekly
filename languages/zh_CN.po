@@ -1,0 +1,664 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weekly 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-06-29 03:17+0830\n"
+"PO-Revision-Date: \n"
+"Last-Translator: xuzhihen <xuzhihen@yahoo.com>\n"
+"Language-Team: Theme Junkie <roy@theme-junkie.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../404.php:5
+msgid "404 Not Found"
+msgstr "404 页面不存在"
+
+#: ../404.php:8
+msgid "Apologies, but the page you requested could not be found. Perhaps searching will help."
+msgstr "抱歉，您的页面无法找到，请重新搜索。"
+
+#: ../comments.php:4
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "这个日志是密码保护的，请输入密码。"
+
+#: ../comments.php:19
+msgid "Subscribe to Comments RSS Feed in this post"
+msgstr "订阅此文评论"
+
+#: ../comments.php:21
+#, php-format
+msgid "One Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:25
+#: ../comments.php:43
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:26
+#: ../comments.php:44
+msgid "Newer Comments &rarr;"
+msgstr "较新评论&rarr;"
+
+#: ../comments.php:35
+msgid "Pingbacks/Trackbacks"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Comments are closed."
+msgstr "评论已关闭。"
+
+#: ../footer.php:14
+#: ../header.php:105
+msgid "Home"
+msgstr "首页"
+
+#: ../footer.php:28
+msgid "All rights reserved"
+msgstr "All rights reserved"
+
+#: ../footer.php:28
+msgid "XHTML"
+msgstr "XHTML"
+
+#: ../footer.php:28
+msgid "CSS"
+msgstr "CSS"
+
+#: ../footer.php:28
+msgid "Valid"
+msgstr "Valid"
+
+#: ../footer.php:32
+msgid "Proudly designed by"
+msgstr "Proudly designed by"
+
+#: ../footer.php:32
+msgid "Theme Junkie"
+msgstr "Theme Junkie"
+
+#: ../functions.php:21
+msgid "Header Pages"
+msgstr "顶部"
+
+#: ../functions.php:22
+msgid "Header Categories"
+msgstr "中间"
+
+#: ../functions.php:23
+msgid "Footer Categories"
+msgstr "底部"
+
+#: ../functions.php:37
+msgid "Read more <span class=\"meta-nav\">&raquo;</span>"
+msgstr "阅读更多 <span class=\"meta-nav\">&raquo;</span>"
+
+#: ../functions.php:55
+msgid "Top Widget Area"
+msgstr "顶部工具栏"
+
+#: ../functions.php:57
+msgid "The top widget area"
+msgstr "顶部工具栏"
+
+#: ../functions.php:66
+msgid "Middle Left Widget Area"
+msgstr "中左工具栏"
+
+#: ../functions.php:68
+msgid "The middle left widget area"
+msgstr "中左工具栏"
+
+#: ../functions.php:77
+msgid "Middle Right Widget Area"
+msgstr "中右工具栏"
+
+#: ../functions.php:79
+msgid "The middle right area"
+msgstr "中右工具栏"
+
+#: ../functions.php:88
+msgid "Bottom Widget Area"
+msgstr "底部工具栏"
+
+#: ../functions.php:90
+msgid "The bottom widget area"
+msgstr "底部工具栏"
+
+#: ../functions.php:252
+msgid "Page"
+msgstr "页面"
+
+#: ../functions.php:389
+#: ../single.php:11
+msgid "on "
+msgstr "于"
+
+#: ../header.php:44
+#: ../searchform.php:2
+msgid "Search in this site..."
+msgstr "搜索一下"
+
+#: ../header.php:67
+msgid "RSS"
+msgstr "RSS"
+
+#: ../header.php:68
+msgid "Email"
+msgstr "电子邮件"
+
+#: ../header.php:69
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../header.php:70
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../page.php:15
+#: ../single.php:20
+#: ../template-fullwidth.php:21
+msgid "Pages:"
+msgstr "页"
+
+#: ../single.php:10
+msgid "Posted by"
+msgstr "作者"
+
+#: ../single.php:12
+msgid "in "
+msgstr "在"
+
+#: ../single.php:14
+msgid "0 Comment"
+msgstr "还没有评论，快来评论吧"
+
+#: ../single.php:14
+msgid "1 Comment"
+msgstr "1 条评论"
+
+#: ../single.php:14
+msgid "% Comments"
+msgstr "% 条评论"
+
+#: ../single.php:15
+msgid "Edit"
+msgstr "编辑"
+
+#: ../single.php:23
+msgid "<div id=\"entry-tags\"><span>Tags:</span>&nbsp;"
+msgstr ""
+
+#: ../single.php:31
+msgid "About "
+msgstr "关于"
+
+#: ../single.php:34
+msgid "View all posts by "
+msgstr "查看其所有日志"
+
+#: ../template-archives.php:37
+msgid "Categories"
+msgstr "分类"
+
+#: ../template-archives.php:43
+msgid "Monthly Archive"
+msgstr "每月归档"
+
+#: ../ads/sidebar-ad1.php:2
+#: ../ads/sidebar-ad2.php:3
+#: ../ads/sidebar-ad3.php:2
+#: ../functions/theme-options.php:291
+msgid "Advertisement"
+msgstr "广告"
+
+#: ../functions/comments.php:10
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: ../functions/comments.php:14
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> "
+msgstr ""
+
+#: ../functions/comments.php:14
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../functions/comments.php:14
+#: ../functions/comments.php:24
+msgid "(Edit)"
+msgstr "(编辑)"
+
+#: ../functions/comments.php:24
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/comments.php:42
+msgid "Name"
+msgstr "昵称"
+
+#: ../functions/comments.php:46
+msgid "Website"
+msgstr "网址"
+
+#: ../functions/comments.php:50
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: ../functions/comments.php:54
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你必须<a href=\"%s\">登录</a>以后才能发表评论"
+
+#: ../functions/comments.php:55
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr "登录为<a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"退出登录\">登出?</a>"
+
+#: ../functions/comments.php:56
+msgid "Your email address will not be published."
+msgstr "你的电子邮件不会被公布."
+
+#: ../functions/comments.php:60
+msgid "Leave a Reply"
+msgstr "回复"
+
+#: ../functions/comments.php:61
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "回复给 %s"
+
+#: ../functions/comments.php:62
+msgid "Cancel reply"
+msgstr "取消回复"
+
+#: ../functions/comments.php:63
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: ../functions/flickr-widget.php:11
+msgid "Theme Junkie - Flickr"
+msgstr "Flickr 相册"
+
+#: ../functions/flickr-widget.php:23
+msgid "Photos on <span>Flick<span>r</span></span>"
+msgstr ""
+
+#: ../functions/flickr-widget.php:47
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\">idGettr</a>):"
+msgstr "Flickr ID (<a href=\"http://www.idgettr.com\">获取ID</a>):"
+
+#: ../functions/flickr-widget.php:51
+msgid "Number:"
+msgstr "数量："
+
+#: ../functions/flickr-widget.php:59
+msgid "Type:"
+msgstr "类型："
+
+#: ../functions/flickr-widget.php:61
+msgid "User"
+msgstr "用户"
+
+#: ../functions/flickr-widget.php:62
+msgid "Group"
+msgstr "组"
+
+#: ../functions/flickr-widget.php:66
+msgid "Sorting:"
+msgstr "排序："
+
+#: ../functions/flickr-widget.php:68
+msgid "Latest"
+msgstr "最新"
+
+#: ../functions/flickr-widget.php:69
+msgid "Random"
+msgstr "随机"
+
+#: ../functions/theme-options.php:30
+msgid "General Settings"
+msgstr "常规设置"
+
+#: ../functions/theme-options.php:32
+msgid "Logo Type"
+msgstr "Logo类型"
+
+#: ../functions/theme-options.php:37
+msgid "Image Logo URL"
+msgstr "Logo图片地址"
+
+#: ../functions/theme-options.php:41
+msgid "Thumbnail Key"
+msgstr "缩略图KEY"
+
+#: ../functions/theme-options.php:45
+#: ../functions/theme-options.php:162
+#: ../functions/theme-options.php:200
+msgid "Thumbnail Width"
+msgstr "分类页面缩略图宽"
+
+#: ../functions/theme-options.php:51
+#: ../functions/theme-options.php:76
+#: ../functions/theme-options.php:130
+#: ../functions/theme-options.php:168
+#: ../functions/theme-options.php:206
+msgid "Thumbnail Height"
+msgstr "分类页面缩略图高"
+
+#: ../functions/theme-options.php:60
+msgid "Featured Content Slider"
+msgstr "幻灯片展示"
+
+#: ../functions/theme-options.php:62
+msgid "<b>Featured Posts</b> From"
+msgstr "范围"
+
+#: ../functions/theme-options.php:67
+msgid "Category for <b>Featured Posts</b>"
+msgstr "选择分类"
+
+#: ../functions/theme-options.php:71
+msgid "\tNumber of <b>Featured Posts</b>"
+msgstr "\t 显示数量"
+
+#: ../functions/theme-options.php:85
+msgid "Homepage - Latest News"
+msgstr "主页-最近更新"
+
+#: ../functions/theme-options.php:87
+msgid "<b>Latest News</b> From"
+msgstr "范围"
+
+#: ../functions/theme-options.php:92
+msgid "Category for <b>Latest News</b>"
+msgstr "选择分类"
+
+#: ../functions/theme-options.php:96
+msgid "\tNumber of <b>Latest Posts</b>"
+msgstr "显示数量"
+
+#: ../functions/theme-options.php:104
+msgid "Homepage - Carousel Posts"
+msgstr "主页-图文展示"
+
+#: ../functions/theme-options.php:106
+#: ../functions/theme-options.php:141
+#: ../functions/theme-options.php:179
+msgid "Enable this area"
+msgstr "开启此模式"
+
+#: ../functions/theme-options.php:111
+msgid "Carousel title"
+msgstr "栏目名称"
+
+#: ../functions/theme-options.php:116
+msgid "<b>Carousel Posts</b> From"
+msgstr "范围"
+
+#: ../functions/theme-options.php:121
+msgid "Category for <b>Carousel Posts</b>"
+msgstr "选择分类"
+
+#: ../functions/theme-options.php:125
+msgid "\tNumber of <b>Carousel Posts</b>"
+msgstr "\t 显示数量"
+
+#: ../functions/theme-options.php:139
+msgid "Homepage - One Column Boxes"
+msgstr "主页- 一栏样式"
+
+#: ../functions/theme-options.php:152
+msgid "\tNumber of each category"
+msgstr "\t每个分类显示的数量"
+
+#: ../functions/theme-options.php:157
+#: ../functions/theme-options.php:195
+msgid "Display Category RSS Feed Link"
+msgstr "显示订阅按钮"
+
+#: ../functions/theme-options.php:177
+msgid "Homepage - Two Column Boxes"
+msgstr "主页- 两栏样式"
+
+#: ../functions/theme-options.php:190
+msgid "\tNumber of posts to show on each category"
+msgstr "\t每个分类显示的数量"
+
+#: ../functions/theme-options.php:223
+msgid "Social Links"
+msgstr "社交站点连接"
+
+#: ../functions/theme-options.php:225
+msgid "Enable social links on top bar"
+msgstr "启用顶部社会链接栏"
+
+#: ../functions/theme-options.php:245
+msgid "Sidebar Tabber"
+msgstr "边栏设定"
+
+#: ../functions/theme-options.php:248
+msgid "Enable sidebar tabber area"
+msgstr "开启边栏文章展示区"
+
+#: ../functions/theme-options.php:254
+msgid "Number of popular posts to show"
+msgstr "热门文章数"
+
+#: ../functions/theme-options.php:260
+msgid "Number of latest posts to show"
+msgstr "最新文章数"
+
+#: ../functions/theme-options.php:266
+msgid "Number of recent comments to show"
+msgstr "最近的评论数"
+
+#: ../functions/theme-options.php:272
+msgid "Avatar & Thumbnail size <br /><br />(<span class=\"description\">Width = Height</span>)"
+msgstr "头像及缩略图大小<br /><br />(<span class=\"description\">宽=高</span>)"
+
+#: ../functions/theme-options.php:281
+msgid "Single Posts"
+msgstr "日志设定"
+
+#: ../functions/theme-options.php:283
+msgid "Display author Bio box"
+msgstr "作者信息栏"
+
+#: ../functions/theme-options.php:294
+msgid "Enable header ad area"
+msgstr "开启头部广告"
+
+#: ../functions/theme-options.php:299
+#: ../functions/theme-options.php:309
+#: ../functions/theme-options.php:319
+msgid "Enter your ad code. <br /><br /> <span class=\"description\">(468x60)</span>"
+msgstr "输入你的广告代码. <br /><br /> <span class=\"description\">(468x60)</span>"
+
+#: ../functions/theme-options.php:304
+msgid "Enable home ad#1 area"
+msgstr "启用主页广告1区"
+
+#: ../functions/theme-options.php:314
+msgid "Enable home ad#2 area"
+msgstr "启用主页广告2区"
+
+#: ../functions/theme-options.php:324
+msgid "Enable sidebar ad#1 area"
+msgstr "启用边栏广告 1区"
+
+#: ../functions/theme-options.php:329
+#: ../functions/theme-options.php:349
+msgid "Enter your ad code. <br /><br /> <span class=\"description\">(300x250)</span>"
+msgstr "输入你的广告代码. <br /><br /> <span class=\"description\">(300x250)</span>"
+
+#: ../functions/theme-options.php:334
+msgid "Enable Sidebar ad#2 area"
+msgstr "启用边栏广告 2区"
+
+#: ../functions/theme-options.php:339
+msgid "Enter your ad code. <br /><br /> <span class=\"description\">(120x600)</span>"
+msgstr "输入你的广告代码. <br /><br /> <span class=\"description\">(120x600)</span>"
+
+#: ../functions/theme-options.php:344
+msgid "Enable Sidebar ad#3 area"
+msgstr "启用边栏广告 3区"
+
+#: ../functions/theme-options.php:358
+msgid "Code Integration"
+msgstr "统计代码"
+
+#: ../functions/theme-options.php:361
+msgid "Enable head code"
+msgstr "开启头部代码"
+
+#: ../functions/theme-options.php:366
+msgid "<span class=\"description\">Add code to the < head > of your site</span>"
+msgstr "<span class=\"description\">添加代码到< head >部分</span>"
+
+#: ../functions/theme-options.php:371
+msgid "Enable body code"
+msgstr "开启body代码"
+
+#: ../functions/theme-options.php:376
+msgid "<span class=\"description\">Add code to the < body > (good tracking codes such as google analytics)</span>"
+msgstr "<span class=\"description\">添加代码到 < body > (例如 google analytics)</span>"
+
+#: ../functions/theme-options.php:476
+msgid "settings saved."
+msgstr "保存设置"
+
+#: ../functions/theme-options.php:477
+msgid "settings reset."
+msgstr "复位设置"
+
+#: ../functions/theme-options.php:481
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: ../functions/theme-options.php:506
+msgid "Show/Hide"
+msgstr "显示/隐藏"
+
+#: ../functions/theme-options.php:516
+msgid "Theme:"
+msgstr "主题"
+
+#: ../functions/theme-options.php:520
+msgid "Author:"
+msgstr "作者："
+
+#: ../functions/theme-options.php:524
+msgid "Description:"
+msgstr "说明："
+
+#: ../functions/theme-options.php:575
+msgid "Save Changes"
+msgstr "保存设置"
+
+#: ../functions/theme-options.php:582
+msgid "Reset to Defaults"
+msgstr "恢复默认设置"
+
+#: ../includes/headline.php:3
+msgid "Change Layout"
+msgstr "布局"
+
+#: ../includes/headline.php:3
+msgid "List/Grid"
+msgstr ""
+
+#: ../includes/headline.php:6
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/headline.php:8
+#: ../includes/home-onecol.php:17
+#: ../includes/home-onecol.php:19
+#: ../includes/home-twocol.php:15
+#: ../includes/home-twocol.php:17
+#, php-format
+msgid "Subscribe to %s"
+msgstr ""
+
+#: ../includes/headline.php:11
+#, php-format
+msgid "Tag Archives: <span>%s</span>"
+msgstr "按标签归档: <span>%s</span>"
+
+#: ../includes/headline.php:14
+#, php-format
+msgid "Search for <span>%s</span>"
+msgstr "搜索 <span>%s</span>"
+
+#: ../includes/headline.php:17
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "按日归档: <span>%s</span>"
+
+#: ../includes/headline.php:20
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "按月归档: <span>%s</span>"
+
+#: ../includes/headline.php:23
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "按年归档: <span>%s</span>"
+
+#: ../includes/headline.php:27
+#, php-format
+msgid "Author Archives: <span>%s</span>"
+msgstr "作者归档: <span>%s</span>"
+
+#: ../includes/headline.php:30
+#, php-format
+msgid "Archive: <span>Page %s</span>"
+msgstr "归档: <span>Page %s</span>"
+
+#: ../includes/home-latest.php:2
+msgid "Latest News"
+msgstr "最近更新"
+
+#: ../includes/home-latest.php:26
+msgid "More latest news &raquo;"
+msgstr "更多日志"
+
+#: ../includes/home-twocol.php:43
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr "阅读更多 <span class=\"meta-nav\">&rarr;</span>"
+
+#: ../includes/not-found.php:3
+msgid "Apologies, but no results were found for the requested Archive. Perhaps searching will help find a related post."
+msgstr "抱歉"
+
+#: ../includes/sidebar-subscribe.php:4
+msgid "Buzz"
+msgstr "Buzz"
+
+#: ../includes/sidebar-tabber.php:4
+msgid "Popular"
+msgstr "热门"
+
+#: ../includes/sidebar-tabber.php:18
+msgid "Comments"
+msgstr "评论"
+
+#: ../includes/sidebar-tabber.php:25
+msgid "Tags"
+msgstr "标签"
+

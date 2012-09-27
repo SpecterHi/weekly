@@ -1,0 +1,41 @@
+WordPress CMS主题weekly汉化升级版 支持Wordpress 3.1.1
+
+使用说明：
+
+1.weekly主题放入\wp-content\themes下启用（请勿修改主题目录名称，并且不要在任何子目录下）
+
+2.以下插件放入\wp-content\plugins下启用（否则日志无法显示）
+wordpress-23-related-posts-plugin
+custom-smilies-se
+wp-postviews
+
+3.需运行在Wordpress 3.1以上版本，后台方可设置
+
+升级内容：
+
+1.制作中文zh_CN.po zh_CN.mo并将未完全汉化的不稳逐一汉化，针对中文字体显示优化。
+
+2.原页面为三栏列宽相近，将边栏宽度调窄，对应调整各页面宽度。
+
+3.调整模板可直接与插件Custom Smilies、WordPress Related Posts、WP-PostViews配合使用，并调整sidebar-tabber内容增加按点击量排名。
+
+4.修复页脚导航栏在IE6下显示的错误。
+
+5.顶部banner规格调整为960*90（会影响顶部ad的使用，需要放置广告的话注意修改）。
+
+6.添加了留言板模板。
+
+7.升级主题支持Wordpress 3.1.1
+
+8.网友酷を龙卷风汉化后台
+
+9.升级至weekly 1.0.5
+版（2011年5月2日）
+
+如有问题可于网站进行交流
+
+http://www.soulol.com/2011/03/wordpress-cms-theme-weekly/
+
+下载地址：
+
+http://www.soulol.com/theme/weekly.zip
