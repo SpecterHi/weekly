@@ -244,7 +244,7 @@ body {
 }
 
 #image-logo a {
-	background: url(images/logo.png) no-repeat left 0px;
+	background: url(images/logo.gif) no-repeat 5% 50%;
 	width: 961px;
 	height: 90px;
 	text-indent: -5555em;
