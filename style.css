@@ -499,7 +499,7 @@ body {
 
 .nav li a {
 	font: normal 15px/16px 微软雅黑,Tahoma, Trebuchet MS, Arial, serif;
-	padding: 12px 16px;
+	padding: 8px;
 	text-decoration: none;
 	text-transform: uppercase;
 }
