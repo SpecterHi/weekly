@@ -162,7 +162,7 @@ body {
 }
 
 #header {
-	background: #FFF url(images/global.gif) 90% 50%;
+	background: #FFF url(images/global.gif) no-repeat 90% 50%;
 	height: 90px;
 	text-align: left;
 }
