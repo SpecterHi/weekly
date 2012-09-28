@@ -1034,6 +1034,11 @@ h4.entry-title a {
 	float:left;
 }
 
+h4.entry-title .post-categories a {
+	color:#000;
+	margin:0 1em 0 0;
+}
+
 .entry-excerpt {
 	display: table;
 }
