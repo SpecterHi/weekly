@@ -125,7 +125,7 @@ pre,code,kbd,samp,tt {
 }
 
 body,input,button,select,textarea,option {
-	font: 12px '宋体',Tahoma, Trebuchet MS, Arial, serif;
+	font: 13px 微软雅黑,Tahoma, Trebuchet MS, Arial, serif;
 }
 
 body {
@@ -734,6 +734,9 @@ ul.pagination li.active a {
 #latest ul li {
 	border-bottom: 1px solid #ECEDE8;
 	padding: 6px 0 6px 34px;
+	height: 3em;
+	overflow:hidden;
+	vertical-align:bottom;
 }
 
 #latest .postdate {
