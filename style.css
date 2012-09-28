@@ -1015,10 +1015,10 @@ ul.pagination li.active a {
 }
 
 .entry-title {
-	margin: 0 0 10px 0;
+	margin: 0 0 0 0;
 	line-height: 1.25;
 	font-family:微软雅黑,Tahoma, Trebuchet MS, Arial, serif;
-	font-size: 16px;
+
 	font-weight: normal;
 }
 
@@ -1028,6 +1028,10 @@ ul.pagination li.active a {
 
 h1.entry-title {
 	font-size: 22px;
+}
+
+h4.entry-title a {
+	float:left;
 }
 
 .entry-excerpt {
