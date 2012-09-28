@@ -464,7 +464,7 @@ body {
 
 #cat-menu {
 	background: #fbfbfb url(images/menu.gif) repeat-x top center;
-	height: 40px;
+	height: 35px;
 	border-top: 1px solid #dfdfdf;
 	border-bottom: 1px solid #dfdfdf;
 }
@@ -661,7 +661,7 @@ body {
 
 #loopedSlider .container {
 	width: 280px;
-	height: 395px;
+	height: 360px;
 	overflow: hidden;
 	position: relative;
 }

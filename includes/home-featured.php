@@ -31,16 +31,9 @@
 			<p class="featured-thumb">
 				<?php tj_thumbnail(280,get_theme_mod('home_featured_thumb_height')); ?>
 			</p>
-			<h2 class="entry-title">
+			<h3 class="entry-title">
 				<a href="<?php the_permalink(); ?>" title="<?php printf( esc_attr__( 'Permalink to %s', 'soulol' ), the_title_attribute( 'echo=0' ) ); ?>" rel="bookmark"><?php the_title(); ?></a>
-			</h2>
-			<p class="entry-meta">
-				<span class="date"><?php the_time(get_option('date_format')); ?></span> <span class="meta-sep">|</span>
-				<span class="comments-link"><?php comments_popup_link( __( '0 Comment', 'soulol' ), __( '1 Comment', 'soulol' ), __( '% Comments', 'soulol' ) ); ?></span>
-			</p>
-			<p>
-				<?php tj_content_limit(105); ?> <a class="meta-more" href="<?php the_permalink(); ?>" title="<?php printf( esc_attr__( 'Permalink to %s', 'soulol' ), the_title_attribute( 'echo=0' ) ); ?>" rel="bookmark"><?php _e('阅读全文','soulol'); ?> <span class="meta-nav">&raquo;</span></a>
-			</p>
+			</h3>
 
 			</div> <!--end .slides-->
 		 
