@@ -915,14 +915,17 @@ ul.pagination li.active a {
 	border-top: 1px solid #ECEDE8;
 	padding: 5px 0 5px 11px;
 	margin: 0 15px;
+	height: 18px;
 	font-size: 12px;
+	overflow: hidden;
 	background: url(images/icon-bullet.gif) no-repeat 0 12px;
 }
 
 .twocol .catbox li.first {
 	display: block;
-	padding: 15px 0 10px 0;
+	padding: 10px 0 10px 0;
 	font-family:'宋体',Tahoma, Trebuchet MS, Arial, serif;
+	height:90px;
 	font-size: 12px;
 	border-top: 0;
 	background: none;
