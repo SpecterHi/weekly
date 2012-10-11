@@ -1,11 +1,12 @@
 <div class="twocol">
 
 	<?php        
-	    $categories = get_categories('parent=0&orderby=id&include='.get_theme_mod('home_twocol_cats'));
+	    $categories = get_categories('orderby=id&include='.get_theme_mod('home_twocol_cats'));
 	    $catcount = 0;
 		
 		echo '<div class="catbox-row clear">';
 	    foreach ($categories as $cat) {
+			if($cat->parent) continue;
 			echo '<div id="catbox2-'.$catcount.'" class="catbox';
 			if(is_int($catcount/2)) echo ' catbox-even'; else echo ' catbox-odd';
 			echo '">';
